@@ -10,7 +10,10 @@
     "strict": true,
     "noImplicitReturns": true,
     "forceConsistentCasingInFileNames": true,
-    "resolveJsonModule": true
+    "resolveJsonModule": true,
+    "skipLibCheck": true,
+    "isolatedModules": true,
+    "esModuleInterop": true
   },
 
   "include": ["./**/*"],
